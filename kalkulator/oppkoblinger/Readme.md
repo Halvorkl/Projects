@@ -1,1 +1,1 @@
-Bilder brukt i prosjektet!
+Koblinger i prosjektet
