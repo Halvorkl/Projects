@@ -1,0 +1,1 @@
+Eksempelkode brukt i prosjekt
