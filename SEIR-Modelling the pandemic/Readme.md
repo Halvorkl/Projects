@@ -1,1 +1,1 @@
-Modelling the pandemic in Norway
+Modelling the pandemic in Norway with Python
