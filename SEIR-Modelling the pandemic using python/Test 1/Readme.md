@@ -1,1 +1,1 @@
-Testing the sier-modelling tool
+Testing the ODE-solver with sier-modelling
