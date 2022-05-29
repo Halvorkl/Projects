@@ -1,1 +1,2 @@
-Simpel 2-bit kalkulator som kan addere 2 tall og resettes.
+Simple 2-bit calculator that can add 2 numbers and be reset 
+\\ documentation in Norwegian
